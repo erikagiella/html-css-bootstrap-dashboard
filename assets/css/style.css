@@ -2,3 +2,10 @@
 .fs_sm {
     font-size: small;
 }
+
+.actions-cell {
+    display: flex;
+    gap: .25rem;
+    flex-wrap: nowrap;
+    align-items: center;
+}
